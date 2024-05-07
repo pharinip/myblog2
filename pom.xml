@@ -51,6 +51,13 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.twilio.sdk</groupId>
+			<artifactId>twilio</artifactId>
+			<version>8.25.0</version> <!-- Check for the latest version on Twilio's website -->
+		</dependency>
+
 	</dependencies>
 
 	<build>
